@@ -31,7 +31,19 @@ Run MainActivity com.metasploit.stage<br/>
 Sysinfo<br/>
 ![This is an image](https://raw.githubusercontent.com/georgebluff/Kali/main/sysinfo.png)
 
-  
+help command shows all the options. app_list shows all the installed applications:<br/>
+![This is an image](https://raw.githubusercontent.com/georgebluff/Kali/main/sysinfo.png) <br/>
+Here is a full list of everything installed <br/>
+[a link](https://github.com/georgebluff/Kali/blob/main/app_list_full.txt)
+
+
+Not working:
+
+- Get root permissions to device
+- Streaming oculus screen to attacker PC remotely
+- Force enable/record guardan boundares
+- Enable/record microphone
+- Wireshark analysis on Oculus for Facebook Identity Auth
   
 Links:<br/>
   Access Android with Metasploit Kali (Cybersecurity) - https://www.youtube.com/watch?v=YRm-St0bJhU <br/>
