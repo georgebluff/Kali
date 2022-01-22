@@ -6,7 +6,7 @@ Oculus Quest 2 Developer Mode Enabled
 
 Steps:
 Configure WebServer from Kali <br/>
-sudo python3 -m http.server --bind 127.0.0.1 9000
+sudo python3 -m http.server --bind 127.0.0.1 9000 <br/>
 ![This is an image](https://raw.githubusercontent.com/georgebluff/Kali/main/apache%20webserver.png)
 
 Configure localtunnel for browser redirect (optional) <br/>
