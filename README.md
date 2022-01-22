@@ -5,17 +5,21 @@ Prerequisite Setup:
 Oculus Quest 2 Developer Mode Enabled
 
 Steps:
-Configure WebServer from Kali < /br>
-> sudo python3 -m http.server --bind 127.0.0.1 9000
+Configure WebServer from Kali <br/>
+sudo python3 -m http.server --bind 127.0.0.1 9000
 ![This is an image](https://raw.githubusercontent.com/georgebluff/Kali/main/apache%20webserver.png)
-Configure localtunnel for browser redirect (optional) < /br>
+
+Configure localtunnel for browser redirect (optional) <br/>
 ![This is an image](https://raw.githubusercontent.com/georgebluff/Kali/main/localtunnel.png)
+
 Confirm access to webserver on custom port
-Create msfvenom malicious android .apk & put on desktop< /br>
+Create msfvenom malicious android .apk & put on desktop<br/>
 ![This is an image](https://raw.githubusercontent.com/georgebluff/Kali/main/msfvenom.png)
-Download & Install androidApp.apk from WebServer< /br>
+
+Download & Install androidApp.apk from WebServer<br/>
 ![This is an image](https://raw.githubusercontent.com/georgebluff/Kali/main/oculus%20browser.png)
-Run MainActivity com.metasploit.stage< /br>
+
+Run MainActivity com.metasploit.stage<br/>
 ![This is an image](https://raw.githubusercontent.com/georgebluff/Kali/main/apache%20webserver.png)
   
   
