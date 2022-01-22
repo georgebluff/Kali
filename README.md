@@ -3,6 +3,7 @@
 
 Steps:
 Configure WebServer from Kali
+![This is an image](https://raw.githubusercontent.com/georgebluff/Kali/main/apache%20webserver.png)
 Configure localtunnel for browser redirect (optional)
 Create msfvenom malicious android .apk & put on desktop
 Download & Install androidApp.apk
