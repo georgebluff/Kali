@@ -1,0 +1,153 @@
+meterpreter > app_list
+Application List
+================
+
+  Name                                              Package                                       Running  IsSystem
+  ----                                              -------                                       -------  --------
+  Amaze                                             com.amaze.filemanager                         false    false
+  Android Shared Library                            android.ext.shared                            false    true
+  Android System                                    android                                       false    true
+  Android System WebView                            com.android.webview                           false    true
+  AnneFrank6DOF                                     com.forcefieldxr.annefrankhousevr             false    false
+  AppSafety                                         com.oculus.appsafety                          false    true
+  Avatar SDK Pkg                                    com.oculus.avatar2                            false    false
+  BMBF                                              com.weloveoculus.BMBF                         false    false
+  Beat Saber                                        com.beatgames.beatsaber                       false    false
+  Blocked Numbers Storage                           com.android.providers.blockednumber           false    true
+  Bluetooth                                         com.android.bluetooth                         false    true
+  Bookmark Provider                                 com.android.bookmarkprovider                  false    true
+  BugReportService                                  com.oculus.bugreportservice                   false    true
+  Calendar Storage                                  com.android.providers.calendar                false    true
+  CaptionService                                    com.oculus.captionservice                     false    true
+  CaptivePortalLogin                                com.android.captiveportallogin                false    true
+  Certificate Installer                             com.android.certinstaller                     false    true
+  Charge Control                                    com.oculus.os.chargecontrol                   false    true
+  Companion Device Manager                          com.android.companiondevicemanager            false    true
+  Companion Server                                  com.oculus.companion.server                   false    true
+  Contacts Storage                                  com.android.providers.contacts                false    true
+  Creed                                             com.survios.CreedDemo                         false    false
+  DialogHost                                        com.oculus.os.dialoghost                      false    true
+  Download Manager                                  com.android.providers.downloads               false    true
+  Drunkn Bar Fight                                  com.themunky.drunknbarfightQuest              false    false
+  Dynamic System Updates                            com.android.dynsystem                         false    true
+  Epic Roller Coasters                              games.b4t.epicrollercoasters.oculus           false    false
+  Explore                                           com.oculus.explore                            false    true
+  ExploreVR                                         com.forcefieldxr.explorevr                    false    false
+  External Storage                                  com.android.externalstorage                   false    true
+  ExternalStorage                                   com.oculus.externalstorage                    false    true
+  Facebook Horizon                                  com.facebook.horizon                          false    false
+  FirstTimeNux                                      com.oculus.firsttimenux                       false    true
+  Fused Location                                    com.android.location.fused                    false    true
+  GameClimb                                         com.crytek.climb2                             false    false
+  Geocoder                                          com.oculus.location.geocoder                  false    true
+  Guidebook                                         com.oculus.guidebook                          false    true
+  HTML Viewer                                       com.android.htmlviewer                        false    true
+  Half + Half                                       com.normalvr.halfandhalf                      false    false
+  Input Devices                                     com.android.inputdevices                      false    true
+  Intent Filter Verification Service                com.android.statementservice                  false    true
+  Key Chain                                         com.android.keychain                          false    true
+  LineFrequencyService                              com.oculus.linefrequencyservice               false    true
+  MTP Host                                          com.android.mtp                               false    true
+  MainActivity                                      com.metasploit.stage                          true     false
+  Media Storage                                     com.android.providers.media                   false    true
+  MicService                                        com.oculus.micservice                         false    true
+  Mission: ISS                                      com.Magnopus.MissionISS                       false    false
+  Module Metadata                                   com.android.modulemetadata                    false    true
+  Mohab                                             com.Virtuos.R6DLM                             false    false
+  NetworkStack                                      com.android.networkstack.inprocess            false    true
+  Oculus                                            com.oculus.horizon                            false    true
+  Oculus App Runtime                                com.oculus.vrshell                            false    true
+  Oculus Assistant Service                          com.oculus.assistant                          false    true
+  Oculus Browser                                    com.oculus.browser                            false    true
+  Oculus Browser                                    com.oculus.os.vrbrowserlauncher               false    true
+  Oculus Core Mobile Services                       com.oculus.ocms                               false    true
+  Oculus Gaming Activity                            com.oculus.gamingactivity                     false    true
+  Oculus Home                                       com.oculus.vrshell.home                       false    true
+  Oculus Link                                       com.oculus.xrstreamingclient                  false    true
+  Oculus Move                                       com.oculus.fitnesstracker                     false    true
+  Oculus OS Updater                                 com.oculus.updater                            false    true
+  Oculus System Activities                          com.oculus.systemactivities                   false    true
+  Oculus System Driver                              com.oculus.systemdriver                       false    true
+  Oculus System Utilities                           com.oculus.systemutilities                    false    true
+  Oculus TV                                         com.oculus.tv                                 false    false
+  Oculus Unified Telemetry                          com.oculus.unifiedtelemetry                   false    true
+  Oculus User Server                                com.oculus.userserver2                        false    true
+  One Time Init                                     com.android.onetimeinitializer                false    true
+  Onward                                            com.downpourinteractive.onward                false    false
+  PacProcessor                                      com.android.pacprocessor                      false    true
+  Package installer                                 com.android.packageinstaller                  false    true
+  Path of the Warrior                               com.twistedpixelgames.POTW_App                false    false
+  Permission controller                             com.android.permissioncontroller              false    true
+  PokerStarsVR                                      com.LuckyVR.PokerStarsVR                      false    false
+  Preloader                                         com.oculus.preloader                          false    true
+  Pro Putt                                          com.golfscope.proputt                         false    false
+  ProxyHandler                                      com.android.proxyhandler                      false    true
+  Quill Theater                                     com.facebook.arvr.quillplayer                 false    false
+  Rec Room                                          com.AgainstGravity.RecRoom                    false    false
+  SUPERHOT VR                                       unity.SUPERHOT_Team.SUPERHOT_VR_QA            false    false
+  Settings                                          com.android.settings                          false    true
+  Settings Storage                                  com.android.providers.settings                false    true
+  Shell                                             com.android.shell                             false    true
+  ShellEnv                                          com.oculus.shellenv                           false    true
+  SocialPlatform                                    com.oculus.socialplatform                     false    true
+  StatsCollector                                    com.oculus.statscollector                     false    true
+  Storage Manager                                   com.android.storagemanager                    false    true
+  Store                                             com.oculus.store                              false    true
+  Supernatural                                      in.with.flow.Swords                           false    false
+  System Resource                                   com.oculus.systemresource                     false    true
+  SystemSearch                                      com.oculus.systemsearch                       false    true
+  SystemUX                                          com.oculus.systemux                           false    true
+  TV Storage                                        com.android.providers.tv                      false    true
+  User Dictionary                                   com.android.providers.userdictionary          false    true
+  VRDesktop                                         com.oculus.vrshell.desktop                    false    true
+  VZfit Explorer                                    com.virzoom.vzfitexplorer                     false    false
+  Venues                                            com.facebook.venues                           false    false
+  Virtual Desktop                                   VirtualDesktop.Android                        false    false
+  VpnDialogs                                        com.android.vpndialogs                        false    true
+  VrAlertService                                    com.oculus.vralertservice                     false    true
+  VrCastService                                     com.oculus.vrcast                             false    true
+  VrUsb                                             com.oculus.os.vrusb                           false    true
+  Walkabout Mini Golf                               com.MightyCoconut.WalkaboutMiniGolf           false    false
+  Warplanes: WW1 Fighters                           com.HomeNetGames.WW1oculus                    false    false
+  WebSafety                                         com.oculus.websafety                          false    true
+  Wfd Service                                       com.qualcomm.wfd.service                      false    true
+  Work Setup                                        com.android.managedprovisioning               false    true
+  YouTube VR                                        com.google.android.apps.youtube.vr.oculus     false    false
+  com.android.backupconfirm                         com.android.backupconfirm                     false    true
+  com.android.localtransport                        com.android.localtransport                    false    true
+  com.android.provision                             com.android.provision                         false    true
+  com.android.server.NetworkPermissionConfig        com.android.networkstack.permissionconfig     false    true
+  com.android.sharedstoragebackup                   com.android.sharedstoragebackup               false    true
+  com.facebook.spatial_persistence_service          com.facebook.spatial_persistence_service      false    true
+  com.fyian.TheThrillOfTheFight                     com.fyian.TheThrillOfTheFight                 false    false
+  com.oculus.backuptransportservice                 com.oculus.backuptransportservice             false    true
+  com.oculus.bodyapiservice                         com.oculus.bodyapiservice                     false    true
+  com.oculus.deviceauthserver                       com.oculus.deviceauthserver                   false    true
+  com.oculus.environment.prod.adobe                 com.oculus.environment.prod.adobe             false    false
+  com.oculus.environment.prod.bubbles               com.oculus.environment.prod.bubbles           false    true
+  com.oculus.environment.prod.cyberhome             com.oculus.environment.prod.cyberhome         false    false
+  com.oculus.environment.prod.dome                  com.oculus.environment.prod.dome              false    false
+  com.oculus.environment.prod.japan                 com.oculus.environment.prod.japan             false    false
+  com.oculus.environment.prod.personaloffice01      com.oculus.environment.prod.personaloffice01  false    false
+  com.oculus.environment.prod.rifthome              com.oculus.environment.prod.rifthome          false    false
+  com.oculus.environment.prod.spacestation          com.oculus.environment.prod.spacestation      false    false
+  com.oculus.environment.prod.winterlodge           com.oculus.environment.prod.winterlodge       false    false
+  com.oculus.firsttimenuxresources                  com.oculus.firsttimenuxresources              false    true
+  com.oculus.gatekeeperservice                      com.oculus.gatekeeperservice                  false    true
+  com.oculus.guardian                               com.oculus.guardian                           false    true
+  com.oculus.guardianresources                      com.oculus.guardianresources                  false    true
+  com.oculus.handsnuxresources                      com.oculus.handsnuxresources                  false    true
+  com.oculus.identitymanagement.service             com.oculus.identitymanagement.service         false    true
+  com.oculus.mrservice                              com.oculus.mrservice                          false    true
+  com.oculus.notification_proxy.NotificationProxyA  com.oculus.notification_proxy                 false    true
+  pplication
+  com.oculus.nux.ota                                com.oculus.nux.ota                            false    true
+  com.oculus.os.clearactivity                       com.oculus.os.clearactivity                   false    true
+  com.oculus.os.logcollector                        com.oculus.os.logcollector                    false    true
+  com.oculus.os.vrlockscreen                        com.oculus.os.vrlockscreen                    false    true
+  com.oculus.presence.PresenceApplication           com.oculus.presence                           false    true
+  com.oculus.qplservice                             com.oculus.qplservice                         false    true
+  com.oculus.yadi.YADI                              com.oculus.yadi                               false    true
+  com.qualcomm.timeservice                          com.qualcomm.timeservice                      false    true
+  oculus.platform                                   oculus.platform                               false    true
+
