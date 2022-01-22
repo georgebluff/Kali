@@ -17,15 +17,20 @@ Create msfvenom malicious android .apk & put on desktop<br/>
 ![This is an image](https://raw.githubusercontent.com/georgebluff/Kali/main/msfvenom.png)
 
 Launch msfconsole and use exploit/multi/handler for android reverse_tcp payload & 
-set LHOST
-show options
-exploit
+set LHOST<br/>
+show options<br/>
+exploit<br/>
+![This is an image](https://raw.githubusercontent.com/georgebluff/Kali/main/TCP%20handler.png)
 
 Download & Install androidApp.apk from WebServer<br/>
 ![This is an image](https://raw.githubusercontent.com/georgebluff/Kali/main/oculus%20browser.png)
 
 Run MainActivity com.metasploit.stage<br/>
 ![This is an image](https://raw.githubusercontent.com/georgebluff/Kali/main/unsupported%20apps.png)
+
+Sysinfo<br/>
+![This is an image](https://raw.githubusercontent.com/georgebluff/Kali/main/sysinfo.png)
+
   
   
 Links:
