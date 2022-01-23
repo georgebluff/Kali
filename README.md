@@ -48,6 +48,7 @@ Not working:
 - Wireshark analysis on Oculus for Facebook Identity Auth
   
 Links:<br/>
+  QuestEscape OS & Firmware Review - https://github.com/QuestEscape/research
   Access Android with Metasploit Kali (Cybersecurity) - https://www.youtube.com/watch?v=YRm-St0bJhU <br/>
   How To Set Up Port Forwarding in Kali Linux Without Router Access | Kali Linux 2021.2 - https://www.youtube.com/watch?v=juu5PM0_NUI <br/>
   Kali http server setup - https://linuxconfig.org/kali-http-server-setup <br/>
